@@ -34,7 +34,8 @@ The MVVM pattern promotes a clear separation of responsibilities, improves testa
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your# Hungry2Grow Assignment
+git clone https://github.com/vticr7/Hungry2Grow.git
+
 
 
 
